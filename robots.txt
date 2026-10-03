@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mohammad-baizid-bhuiyan-portfolio.netlify.app/sitemap.xml
+Sitemap: https://mohammad-baizid-bhuiyan.netlify.app/sitemap.xml
